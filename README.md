@@ -8,11 +8,7 @@ This Streamlit-based web application enables users to generate music mashups eff
   - [Prerequisites](#prerequisites)
   - [Installing Dependencies](#installing-dependencies)
   - [Running the App](#running-the-app)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Built With](#built-with)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Getting Started
 
